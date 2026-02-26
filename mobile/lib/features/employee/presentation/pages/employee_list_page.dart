@@ -65,7 +65,7 @@ class _EmployeeListPageState extends State<EmployeeListPage> {
                             controller: searchController,
                             cursorColor: Colors.grey,
                             decoration: InputDecoration(
-                              hintText: "Search employee by name",
+                              hintText: "Search employee by name or role",
                               hintStyle: TextStyle(color: Colors.grey),
                               prefixIcon: const Icon(
                                 Icons.search,
