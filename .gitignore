@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Laravel
+backend/vendor/
+backend/.env
+backend/node_modules/
+
+# Flutter
+mobile/build/
+mobile/.dart_tool/
+mobile/.packages
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
