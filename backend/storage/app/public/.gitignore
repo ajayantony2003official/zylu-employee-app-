@@ -1,0 +1,5 @@
+*
+!.gitignore
+!employees/
+!employees/*
+employees/.DS_Store

@@ -27,7 +27,7 @@ class EmployeeCard extends StatelessWidget {
                   ? NetworkImage(employee.imageUrl!)
                   : null,
               child: employee.imageUrl == null
-                  ? const Icon(Icons.person)
+                  ? const Icon(Icons.person, color: Colors.black)
                   : null,
             ),
 
